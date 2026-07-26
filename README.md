@@ -10,7 +10,7 @@ int age; //อายุ
 float height; //ส่วนสูง
 
 //ประกาศตัวแปรข้อมูลเครื่องดื่ม
-char drink; //เครื่องดื่ม
+char drink[30]; //เครื่องดื่ม
 float price; //ราคา
 char size; //ขนาดแก้ว
 
